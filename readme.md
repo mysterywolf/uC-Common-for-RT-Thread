@@ -14,4 +14,4 @@ https://github.com/SiliconLabs/uC-Common
 
 
 
-### For the complete documentation, visit https://doc.micrium.com/display/ucos/
+### For the complete documentation, visit https://doc.micrium.com/pages/viewpage.action?pageId=10754328
